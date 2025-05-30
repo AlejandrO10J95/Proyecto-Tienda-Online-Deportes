@@ -21,4 +21,3 @@ Este proyecto es una aplicación web para una tienda online de productos deporti
 - Compras > 50€ → 5€
 - Compras ≤ 50€ → 10€
 
-## 📂 Estructura de carpetas
